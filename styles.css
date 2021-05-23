@@ -22,9 +22,12 @@ nav {
 ul {
   display: flex;
   list-style: none;
+  width: 500px;
+  justify-content: space-around;
+  font-size: 30px;
 }
 
 li {
-  width: 200px;
+  /*width: 200px; */
   text-decoration: none;
 }
